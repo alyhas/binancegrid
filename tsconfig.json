@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "lib": ["es2018"],
+    "outDir": "build",
+    "strict": true,
+    "target": "es5"
+  },
+  "include": ["source/**/*"]
+}
